@@ -5,7 +5,7 @@ cryptography==2.9.2
 firebase==3.0.1
 gcloud==0.18.3
 googleapis-common-protos==1.51.0
-httplib2==0.18.1
+httplib2==0.19.0
 idna==2.9
 jwcrypto==0.7
 oauth2client==4.1.3
