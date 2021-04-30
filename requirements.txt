@@ -16,7 +16,7 @@ pycparser==2.20
 pycrypto==2.6.1
 python-jwt==3.2.6
 requests==2.23.0
-rsa==4.0
+rsa==4.7
 six==1.15.0
 sseclient==0.0.26
 urllib3==1.25.9
